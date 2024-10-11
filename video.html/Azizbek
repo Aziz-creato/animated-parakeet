@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azizbek Abdurahmonov Ibragim Ugli</title>
+</head>
+<body>
+    <h1 style="text-align: center; background-color: black; color: white; padding: 30px;">Welcome!</h1>
+    
+    <h6>Header One</h6>
+    <form>
+        <p>I am here to tell you about my ability to participate in <strong>United People Global</strong> Leadership Program.</p>
+        
+        <p>My skills as a leader:</p>
+        <ul>
+            <li>Hardworking</li>
+            <li>Self-confidence</li>
+            <li>Giving belief</li>
+            <li>Communication skills</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>E-mail</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Azizbek Abdurahmonov</td>
+                    <td>+998-99-893-79-10</td>
+                    <td>abdurahmonovaziz6707@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <hr>
+        
+        <img src="rasm.jpg" width="200" alt="Image 1"/>
+        <img src="rasm%202.jpg" width="200" alt="Image 2"/>
+        <img src="rasm%201.jpg" width="200" alt="Image 3"/>
+         
+
+       
+        
+        <label for="age">
+            Age:
+            <input type="number" placeholder="Your age" id="age" name="age"/>
+        </label>
+        <br><br>
+    
+        <label for="password">
+            Password:
+            <input type="password" placeholder="Password" id="password" name="password"/>
+        </label>
+    </form>
+
+    <p style="text-align: center; background-color: black; color: white; padding: 20px;">Copyright Tashkent</p>
+</body>
+</html>
+
